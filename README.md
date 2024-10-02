@@ -2,4 +2,4 @@
 
 CSS Challenges...
 
-![Preview](https://gyazo.com/9b7335b149273d195b13d7ec0c2682a0)
+![Preview](https://thumb.gyazo.com/thumb/1024_w/eyJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfMzY1MDg1YjNiYWM5ZWQ0MmZkOWVjNWYxZDQyZWVjNGYifQ.iWHDrHCzXgiCgClRmdUyS_-gm5P_VG-3xEmhxgQ2cso-gif.gif)
